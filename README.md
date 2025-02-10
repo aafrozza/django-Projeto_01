@@ -1,1 +1,1 @@
-Projeto 01 - Django
+project 01 - Django
