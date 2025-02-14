@@ -59,5 +59,5 @@ def search(request):
         'recipes': recipes,
     })
 
-def sobre(request):
+#def sobre(request):
     return HttpResponse('sobre')
