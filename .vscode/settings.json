@@ -54,6 +54,7 @@
     "emmet.includeLanguages": {
       "django-html": "html", // batisteo.vscode-django
       "javascript": "javascriptreact",
-      "typescript": "typescriptreact"
+      "typescript": "typescriptreact",
+      "erb": "html"
     }
   }
