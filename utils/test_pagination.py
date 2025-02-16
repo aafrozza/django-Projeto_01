@@ -102,3 +102,6 @@ class PaginationTest(TestCase):
             current_page=21,
         )['pagination']
         self.assertEqual([17, 18, 19, 20], pagination)
+
+def test_make_pagination_how_many_itens_in_page(self):
+    ...
